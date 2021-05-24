@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367073147983",
+    "project_id": "animewalls-52080",
+    "storage_bucket": "animewalls-52080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367073147983:android:7e739cca9ec13f1203be3a",
+        "android_client_info": {
+          "package_name": "com.sourya.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367073147983-j216m7n3397gtrcdvjuipnlj0rg920dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmD_EMp2LE422Rh2xNYIurAxg-2vb7LMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367073147983-j216m7n3397gtrcdvjuipnlj0rg920dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
